@@ -804,6 +804,82 @@ MSOP&lt;br&gt;
 <text x="0" y="-1.651" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
 <circle x="-1.524" y="1.778" radius="0.254" width="0" layer="21"/>
 </package>
+ <package name="ATTO84-SMD" urn="urn:adsk.eagle:footprint:22166/1" locally_modified="yes">
+<description>&lt;h3&gt;ATTO84 - DIP package Arduino compatible controller with micronucleus&lt;/h3&gt;
+&lt;p&gt;Specifications:
+
+&lt;ul&gt;&lt;li&gt;Pin count: 12&lt;/li&gt;
+&lt;li&gt;Pin pitch: .1"&lt;/li&gt;
+&lt;li&gt;Area: [11mm x 28mm]&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<wire x1="3.9624" y1="-15.3924" x2="-6.5024" y2="-15.3924" width="0.2032" layer="21"/>
+<wire x1="-6.5024" y1="10.3124" x2="3.9624" y2="10.3124" width="0.2032" layer="21"/>
+<text x="-2.921" y="-16.256" size="0.6096" layer="25" font="vector" ratio="20">ATTO84</text>
+<smd name="GND" x="-6.985" y="3.81" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="A4" x="-6.985" y="1.27" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="A5" x="-6.985" y="-1.27" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="A7" x="-6.985" y="-3.81" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="A6" x="-6.985" y="-6.35" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="11/RST" x="-6.985" y="-8.89" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="VCC" x="4.445" y="3.81" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="A0" x="4.445" y="1.27" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="A1" x="4.445" y="-1.27" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="A2" x="4.445" y="-3.81" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="A3" x="4.445" y="-6.35" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<smd name="8/LED" x="4.445" y="-8.89" dx="1.27" dy="2.8829" layer="1" rot="R270"/>
+<wire x1="2.7432" y1="11.43" x2="2.7432" y2="5.9182" width="0.2032" layer="21"/>
+<wire x1="2.7432" y1="5.9182" x2="-5.2832" y2="5.9182" width="0.2032" layer="21"/>
+<wire x1="-5.2832" y1="5.9182" x2="-5.2832" y2="11.43" width="0.2032" layer="21"/>
+<wire x1="-5.2832" y1="11.43" x2="2.7432" y2="11.43" width="0.2032" layer="21"/>
+<text x="-2.921" y="11.684" size="0.6096" layer="27" font="vector" ratio="20">&gt;Value</text>
+<wire x1="-6.5024" y1="-15.3924" x2="-6.5024" y2="-10.16" width="0.2032" layer="21"/>
+<wire x1="-6.5024" y1="-7.366" x2="-6.5024" y2="-8.001" width="0.2032" layer="21"/>
+<wire x1="-6.5024" y1="-4.826" x2="-6.5024" y2="-5.461" width="0.2032" layer="21"/>
+<wire x1="-6.5024" y1="-2.286" x2="-6.5024" y2="-2.921" width="0.2032" layer="21"/>
+<wire x1="-6.5024" y1="0.254" x2="-6.5024" y2="-0.381" width="0.2032" layer="21"/>
+<wire x1="-6.5024" y1="2.794" x2="-6.5024" y2="2.159" width="0.2032" layer="21"/>
+<wire x1="-6.5024" y1="10.3124" x2="-6.5024" y2="4.699" width="0.2032" layer="21"/>
+<wire x1="3.9624" y1="-15.3924" x2="3.9624" y2="-10.16" width="0.2032" layer="21"/>
+<wire x1="3.9624" y1="-7.366" x2="3.9624" y2="-8.001" width="0.2032" layer="21"/>
+<wire x1="3.9624" y1="-4.826" x2="3.9624" y2="-5.461" width="0.2032" layer="21"/>
+<wire x1="3.9624" y1="-2.286" x2="3.9624" y2="-2.921" width="0.2032" layer="21"/>
+<wire x1="3.9624" y1="0.254" x2="3.9624" y2="-0.381" width="0.2032" layer="21"/>
+<wire x1="3.9624" y1="2.794" x2="3.9624" y2="2.159" width="0.2032" layer="21"/>
+<wire x1="3.9624" y1="10.3124" x2="3.9624" y2="4.699" width="0.2032" layer="21"/>
+</package>
+<package name="ATTO84-THT">
+<description>&lt;h3&gt;ATTO84 - DIP package Arduino compatible controller with micronucleus&lt;/h3&gt;
+&lt;p&gt;Specifications:
+
+&lt;ul&gt;&lt;li&gt;Pin count: 12&lt;/li&gt;
+&lt;li&gt;Pin pitch: .1"&lt;/li&gt;
+&lt;li&gt;Area: [11mm x 28mm]&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;</description>
+<pad name="VCC" x="5.08" y="6.35" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="A0" x="5.08" y="3.81" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="A1" x="5.08" y="1.27" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="A2" x="5.08" y="-1.27" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="A3" x="5.08" y="-3.81" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="8/LED" x="5.08" y="-6.35" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="GND" x="-5.08" y="6.35" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="A4" x="-5.08" y="3.81" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="A5" x="-5.08" y="1.27" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="A7" x="-5.08" y="-1.27" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="A6" x="-5.08" y="-3.81" drill="1" diameter="1.9304" rot="R270"/>
+<pad name="11/RST" x="-5.08" y="-6.35" drill="1" diameter="1.9304" rot="R270"/>
+<wire x1="5.08" y1="-12.8524" x2="-5.08" y2="-12.8524" width="0.2032" layer="21"/>
+<wire x1="-5.08" y1="12.8524" x2="5.08" y2="12.8524" width="0.2032" layer="21"/>
+<text x="-1.651" y="-13.716" size="0.6096" layer="25" font="vector" ratio="20">ATTO84</text>
+<wire x1="4.0132" y1="13.97" x2="4.0132" y2="8.4582" width="0.2032" layer="21"/>
+<wire x1="4.0132" y1="8.4582" x2="-4.0132" y2="8.4582" width="0.2032" layer="21"/>
+<wire x1="-4.0132" y1="8.4582" x2="-4.0132" y2="13.97" width="0.2032" layer="21"/>
+<wire x1="-4.0132" y1="13.97" x2="4.0132" y2="13.97" width="0.2032" layer="21"/>
+<text x="-1.651" y="14.224" size="0.6096" layer="27" font="vector" ratio="20">&gt;Value</text>
+<wire x1="-5.08" y1="-12.8524" x2="-5.08" y2="-7.874" width="0.2032" layer="21"/>
+<wire x1="-5.08" y1="12.8524" x2="-5.08" y2="7.874" width="0.2032" layer="21"/>
+<wire x1="5.08" y1="-12.8524" x2="5.08" y2="-7.874" width="0.2032" layer="21"/>
+<wire x1="5.08" y1="12.8524" x2="5.08" y2="7.874" width="0.2032" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="ESPLORA_SHIELD">
